@@ -9,3 +9,10 @@ Now you can do the following things:
 - [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+
+# Warning
+
+Framer motion does not work with the version 21.0.0 of Node.js it is now fixed with the version 21.0.1
+See your current node version: nvm current
+Install the version 21.1.0: nvm install 21.1.0
+Use the version 21.1.0: nvm use 21.1.0
